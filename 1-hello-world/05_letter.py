@@ -4,7 +4,7 @@
 print('+---------------------------------------------------------------------+')
 print('|                                                          June 2022  |')
 print('|                                                       Brooklyn, NY  |')
-print('|  Dear Self,                                                         |')
+print('|  Dear prachi,                                                         |')
 print('|                                                                     |')
 print('|      Build the learn to code platform that you always dreamed of.   |')
 print('|      Give more than you take.                                       |')
